@@ -23,3 +23,4 @@ const checkNumber = function(){
 }
 
 vaiBtn.addEventListener('click', checkNumber);
+
